@@ -1,7 +1,7 @@
 [\[English\]](README.md) [\[Português\]](#Introdução)
 _______________________________________________________________________________________________________________________________________
 ## Introdução
-A IA generativa é uma forma de inteligência artificial na qual os modelos são treinados para gerar um conteúdo original com base na entrada de linguagem natural. Em outras palavras, você pode descrever uma saída desejada no idioma normal do dia a dia e o modelo consegue responder criando texto, imagem ou até mesmo código. Um exemplo é o Microsoft Copilot.
+A IA generativa é uma forma de inteligência artificial na qual os modelos são treinados para gerar um conteúdo original com base na entrada de linguagem natural. Em outras palavras, você pode descrever uma saída desejada no idioma normal do dia a dia e o modelo consegue responder criando texto, imagem ou até mesmo código. Por exemplo o Microsoft Copilot e o Azure OpenAI.
 Foram realizados alguns testes utilizando o Microsoft Copilot para gerar texto, imagem e código. Algumas entradas de texto e saídas geradas são mostradas nas tabelas abaixo.
 
 ## Texto
