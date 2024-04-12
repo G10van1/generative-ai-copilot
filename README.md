@@ -1,7 +1,7 @@
 [\[English\]](#Introduction) [\[Português\]](READMEP.md)
 _______________________________________________________________________________________________________________________________________
 ## Introduction
-Generative AI is a form of artificial intelligence in which models are trained to generate original content based on natural language input. In other words, you can describe a desired output in normal everyday language and the model can respond by creating text, image or even code. One example is Microsoft Copilot.
+Generative AI is a form of artificial intelligence in which models are trained to generate original content based on natural language input. In other words, you can describe a desired output in normal everyday language and the model can respond by creating text, image or even code. For example the Microsoft Copilot and the Azure OpenAI.
 Some tests were carried out using Microsoft Copilot to generate text, image and code. Some text inputs and generated outputs are shown in the tables below.
 
 ## Text
