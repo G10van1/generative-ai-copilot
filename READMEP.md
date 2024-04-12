@@ -10,7 +10,7 @@ Foram realizados alguns testes utilizando o Microsoft Copilot para gerar texto, 
 
 | Entrada                                      | Resultado                                 | 
 |---------------------------------------------|-----------------------------------------------|
-| Cite 3 vantagens e desvantagens de tirar férias no inverno | [Arquivo](Output/Output1.rtf) |
+| Cite 3 vantagens e desvantagens de tirar férias no inverno | [Arquivo](Output/Output1.md) |
 
 ## Imagem
 
