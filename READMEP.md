@@ -10,7 +10,7 @@ Foram realizados alguns testes utilizando o Microsoft Copilot para gerar texto, 
 
 | Entrada                                      | Resultado                                 | 
 |---------------------------------------------|-----------------------------------------------|
-| Cite 3 vantagens e desvantagens de tirar férias no inverno | <br><br>[Arquivo](Output/Output1.rtf) |
+| Cite 3 vantagens e desvantagens de tirar férias no inverno | [Arquivo](Output/Output1.rtf) |
 
 ## Imagem
 
@@ -26,8 +26,8 @@ Usando o prompt para gerar código.
 
 | Entrada                                      | Resultado                                 | 
 |---------------------------------------------|-----------------------------------------------|
-| Crie uma função simples em Python que gere um array de inteiros com 1000 elementos gerados randomicamente e depois ordene e imprima o array | <br><br>[Arquivo](Output/Output6.md) |
-| traduza para C# | <br><br>[Arquivo](Output/Output7.md) |
+| Crie uma função simples em Python que gere um array de inteiros com 1000 elementos gerados randomicamente e depois ordene e imprima o array | [Arquivo](Output/Output6.md) |
+| traduza para C# | [Arquivo](Output/Output7.md) |
 
 
 ## Referências
