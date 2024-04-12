@@ -10,7 +10,7 @@ You can chat in natural language about any topic and generate prompts to receive
 
 | Input                                      | Result                                | 
 |---------------------------------------------|-----------------------------------------------|
-|Name 3 advantages and disadvantages of taking a winter vacation | <br><br>[File](Output/Output1.rtf) |
+|Name 3 advantages and disadvantages of taking a winter vacation | <br><br>[File](Output/Output1.md) |
 
 ## Image
 
@@ -26,8 +26,8 @@ Using the prompt to generate code.
 
 | Input                                      | Result                                 | 
 |---------------------------------------------|-----------------------------------------------|
-| Create a simple function in Python that generates an integer array with 1000 randomly generated elements and then sorts and prints the array | <br><br>[File](Output/Output6.rtf) |
-| translate to C# | <br><br>[File](Output/Output7.rtf) |
+| Create a simple function in Python that generates an integer array with 1000 randomly generated elements and then sorts and prints the array | <br><br>[File](Output/Output6.md) |
+| translate to C# | <br><br>[File](Output/Output7.md) |
 
 ## References
 

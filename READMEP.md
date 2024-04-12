@@ -26,8 +26,8 @@ Usando o prompt para gerar código.
 
 | Entrada                                      | Resultado                                 | 
 |---------------------------------------------|-----------------------------------------------|
-| Crie uma função simples em Python que gere um array de inteiros com 1000 elementos gerados randomicamente e depois ordene e imprima o array | <br><br>[Arquivo](Output/Output6.rtf) |
-| traduza para C# | <br><br>[Arquivo](Output/Output7.rtf) |
+| Crie uma função simples em Python que gere um array de inteiros com 1000 elementos gerados randomicamente e depois ordene e imprima o array | <br><br>[Arquivo](Output/Output6.md) |
+| traduza para C# | <br><br>[Arquivo](Output/Output7.md) |
 
 
 ## Referências
